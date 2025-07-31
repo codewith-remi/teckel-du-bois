@@ -9,43 +9,43 @@ const Puppies = () => {
       name: "Alex",
       type: "Teckel Standard",
       price: "1500€",
-      image: "/images/chiens/alex-teckel.jpeg"
+      image: "/images/alex-teckel.jpeg"
     },
     {
       name: "Vanelle",
       type: "Teckel Nain",
       price: "1800€",
-      image: "/images/chiens/vanelle-teckel.jpeg"
+      image: "/images/vanelle-teckel.jpeg"
     },
     {
       name: "Joe",
       type: "Teckel Standard",
       price: "1700€",
-      image: "/images/chiens/joe-teckel.jpeg"
+      image: "/images/joe-teckel.jpeg"
     },
     {
       name: "Dumbo",
       type: "Kanichen",
       price: "1800€",
-      image: "/images/chiens/dumbo-teckel.jpeg"
+      image: "/images/dumbo-teckel.jpeg"
     },
     {
       name: "Leandra",
       type: "Kanichen",
       price: "1500€",
-      image: "/images/chiens/leandra-teckel.jpeg"
+      image: "/images/leandra-teckel.jpeg"
     },
     {
       name: "Naelle",
       type: "Kanichen",
       price: "1800€",
-      image: "/images/chiens/naelle-teckel.jpeg"
+      image: "/images/naelle-teckel.jpeg"
     },
     {
       name: "Max",
       type: "Teckel Nain",
       price: "1500€",
-      image: "/images/chiens/max-teckel.jpeg"
+      image: "/images/max-teckel.jpeg"
     },
     {
       name: "Portée de nains disponible",
@@ -53,7 +53,7 @@ const Puppies = () => {
       price: "1600€",
       isReservation: true,
       reservationPrice: "600€",
-      image: "/images/chiens/portee-nains.jpeg"
+      image: "/images/portee-nains.jpeg"
     }
   ];
 
