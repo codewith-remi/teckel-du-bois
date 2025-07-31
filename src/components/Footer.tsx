@@ -31,14 +31,14 @@ export const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-foreground">Suivez-nous</h3>
             <div className="flex space-x-4">
-              <a
+              {/* <a
                 href="https://www.facebook.com/share/1CcvQYaX5G/?mibextid=wwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
                 <Facebook className="h-6 w-6" />
-              </a>
+              </a> */}
               <a
                 href="https://www.instagram.com/adoptionteckel?igsh=Y3Nhb3FoajYONmdm&utm_source=qr"
                 target="_blank"
