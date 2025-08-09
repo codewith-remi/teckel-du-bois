@@ -55,7 +55,7 @@ const Index = () => {
         <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-pulse-soft">
             Bienvenue chez<br />
-            <span className="text-gold">Teckel du Bois</span>
+            <span className="text-gold">Cany Express</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
             Adoptez un compagnon fidèle, plein d'amour et de caractère
@@ -178,7 +178,7 @@ const Index = () => {
               Pourquoi nous choisir ?
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Découvrez ce qui fait de Teckel du Bois le choix idéal pour votre future adoption
+              Découvrez ce qui fait de Candi Express le choix idéal pour votre future adoption
             </p>
           </div>
 

@@ -9,7 +9,7 @@ export const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Heart className="h-6 w-6 text-primary" />
-              <span className="text-lg font-bold text-primary">Teckel du Bois</span>
+              <span className="text-lg font-bold text-primary">Cany Express</span>
             </div>
             <p className="text-muted-foreground text-sm">
               Élevage professionel de Teckels à Lyon. Nous élevons nos chiots avec passion 
@@ -54,7 +54,7 @@ export const Footer = () => {
         <div className="border-t border-border mt-8 pt-8 text-center">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
             <p className="text-sm text-muted-foreground">
-              © 2024 Teckel du Bois. Tous droits réservés.
+              © 2024 Cany Express. Tous droits réservés.
             </p>
             <div className="flex space-x-6 text-sm text-muted-foreground">
               <a href="#" className="hover:text-primary transition-colors">
