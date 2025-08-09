@@ -9,14 +9,14 @@ import heroImage from "@/assets/hero-teckel.jpg";
 
 const Index = () => {
   const handlePhoneClick = () => {
-    const phoneNumber = "33745557441";
+    const phoneNumber = "33744101979";
     const message = "Bonjour, je suis intéressé(e) par vos teckels. Pouvez-vous me donner plus d'informations ?";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');
   };
 
   const handleEmailClick = () => {
-    window.location.href = "mailto:teckeldubois21@gmail.com";
+    window.location.href = "mailto:etablissementcanin66@gmail.com";
   };
 
   const features = [
@@ -110,7 +110,7 @@ const Index = () => {
                   </div>
                 </div>
                 <h3 className="text-lg font-semibold text-foreground mb-2">Téléphone</h3>
-                <p className="text-primary font-medium">+33 7 45 55 74 41</p>
+                <p className="text-primary font-medium">+33 7 44 10 19 79</p>
                 <p className="text-sm text-muted-foreground mt-1">Cliquez pour WhatsApp</p>
               </CardContent>
             </Card>
@@ -124,7 +124,7 @@ const Index = () => {
                   </div>
                 </div>
                 <h3 className="text-lg font-semibold text-foreground mb-2">Email</h3>
-                <p className="text-primary font-medium text-sm">teckeldubois21@gmail.com</p>
+                <p className="text-primary font-medium text-sm">etablissementcanin66@gmail.com</p>
               </CardContent>
             </Card>
 
@@ -137,7 +137,7 @@ const Index = () => {
                   </div>
                 </div>
                 <h3 className="text-lg font-semibold text-foreground mb-2">Adresse</h3>
-                <p className="text-primary font-medium">Lyon, France</p>
+                <p className="text-primary font-medium">Heugnes, France</p>
               </CardContent>
             </Card>
 
@@ -146,7 +146,7 @@ const Index = () => {
               <CardContent className="p-6">
                 <div className="mb-4 flex justify-center space-x-2">
                   <a
-                    href="https://www.facebook.com/share/1CcvQYaX5G/?mibextid=wwXIfr"
+                    href="https://www.facebook.com/share/1BTYX3FBmY/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 bg-primary/10 rounded-full hover:bg-primary/20 transition-colors"

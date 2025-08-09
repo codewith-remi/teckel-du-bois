@@ -41,7 +41,7 @@ const About = () => {
             </h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Candi Express est un élevage professionel situé à Lyon. Nos chiots grandissent 
+                Candi Express est un élevage professionel situé à Heugnes. Nos chiots grandissent 
                 dans un environnement aimant et sécurisé. Notre objectif est d'offrir à chaque 
                 famille un chiot équilibré, joyeux et en bonne santé. Nous sommes disponibles 
                 pour vous accompagner avant, pendant et après l'adoption.

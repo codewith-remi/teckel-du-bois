@@ -12,7 +12,7 @@ export const Footer = () => {
               <span className="text-lg font-bold text-primary">Cany Express</span>
             </div>
             <p className="text-muted-foreground text-sm">
-              Élevage professionel de Teckels à Lyon. Nous élevons nos chiots avec passion 
+              Élevage professionel de Teckels à Heugnes. Nous élevons nos chiots avec passion 
               pour vous offrir des compagnons fidèles et en bonne santé.
             </p>
           </div>
@@ -21,9 +21,9 @@ export const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-foreground">Contact</h3>
             <div className="space-y-2 text-sm text-muted-foreground">
-              <p>📞 +33 7 45 55 74 41</p>
-              <p>📧 teckeldubois21@gmail.com</p>
-              <p>📍 Lyon, France</p>
+              <p>📞 +33 7 44 10 19 79</p>
+              <p>📧 etablissementcanin66@gmail.com</p>
+              <p>📍 Heugnes, France</p>
             </div>
           </div>
 
@@ -32,9 +32,9 @@ export const Footer = () => {
             <h3 className="text-lg font-semibold text-foreground">Suivez-nous</h3>
             <div className="flex space-x-4">
               <a
-                // href="https://www.facebook.com/share/1CcvQYaX5G/?mibextid=wwXIfr"
-                // target="_blank"
-                // rel="noopener noreferrer"
+                href="https://www.facebook.com/share/1BTYX3FBmY/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
                 <Facebook className="h-6 w-6" />

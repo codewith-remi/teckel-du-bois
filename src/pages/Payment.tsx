@@ -7,7 +7,7 @@ import { CreditCard, Shield, MessageCircle, CheckCircle } from "lucide-react";
 
 const Payment = () => {
   const handleContact = () => {
-    const phoneNumber = "33745557441";
+    const phoneNumber = "33744101979";
     const message = "Bonjour, j'aimerais avoir des informations sur les modalités de paiement pour l'adoption d'un chiot.";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');

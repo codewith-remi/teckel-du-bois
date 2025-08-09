@@ -21,7 +21,7 @@ export const PuppyCard = ({
   reservationPrice 
 }: PuppyCardProps) => {
   const handleContact = () => {
-    const phoneNumber = "33745557441";
+    const phoneNumber = "33744101979";
     const message = `Bonjour, je suis intéressé(e) par ${name} (${type}). Pouvez-vous me donner plus d'informations ?`;
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');

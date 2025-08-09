@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export const WhatsAppButton = () => {
   const handleWhatsAppClick = () => {
-    const phoneNumber = "33745557441"; // +33745557441 without the +
+    const phoneNumber = "33744101979"; // +33744101979 without the +
     const message = "Bonjour, je suis intéressé(e) par vos teckels. Pouvez-vous me donner plus d'informations ?";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');
